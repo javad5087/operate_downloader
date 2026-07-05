@@ -11,10 +11,11 @@
 
 
 # Stream to download movies from Aparat service
-Download the above file and place it in a folder with the following files (yt-dlp, ffmpeg). [The two download files in the link below must be in (.exe) format.]
-Click on the file "Aparat_Playlist_Downloader".
+1- Download the above file and place it in a folder with the following files (yt-dlp, ffmpeg). [The two download files in the link below must be in (.exe) format.]
 
-Put the address of the desired movie file in front of the phrase "Enter Aparat Playlist URL:" and press Enter.
+2- Click on the file "Aparat_Playlist_Downloader".
+
+3- Put the address of the desired movie file in front of the phrase "Enter Aparat Playlist URL:" and press Enter.
 
 
 
