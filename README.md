@@ -10,6 +10,6 @@
 ----------------------
 
 
-[yt-dlp]: (https://github.com/yt-dlp/yt-dlp)
+[yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
-[ffmpeg] : (https://www.ffmpeg.org/)
+[ffmpeg](https://www.ffmpeg.org/)
