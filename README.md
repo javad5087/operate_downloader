@@ -1,4 +1,6 @@
-### استریمی برای دانلود فیلم از سرویس آپارات
+<div dir="rtl">
+
+### اسکریپتی برای دانلود فیلم از سرویس آپارات
 
 -  فایل بالا را دانلود و همراه فایل‌های زیر (yt-dlp ، ffmpeg ) در پوشه‌ایی قرار دهید. [دو فایل دانلود شده در لینک زیر باید با شیوه‌ی (.exe) باشند)
 
@@ -9,8 +11,9 @@
 
 
 
+</div>
 
-### Stream to download movies from Aparat service
+### A script to download movies from Aparat service
 1- Download the above file and place it in a folder with the following files (yt-dlp, ffmpeg). [The two download files in the link below must be in (.exe) format.]
 
 2- Click on the file "Aparat_Playlist_Downloader".
