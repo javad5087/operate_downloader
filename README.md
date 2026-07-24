@@ -1,4 +1,4 @@
-<div style="direction:rtl">
+<div dir="rtl">
 
 ### اسکریپتی برای دانلود فیلم از سرویس آپارات
 
